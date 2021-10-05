@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @j-kincaid
-- 👀 I’m interested in art, javascript, python and spending time with my cat &#128008; 
+- 👀 I’m interested in art, javascript, python and learning new programming languages
 - 🌱 I’m currently learning django and angular
-- 💞️ I’m building my portfolio for collaboration
+- 💞️ I’m building my portfolio for a position as a full-stack developer
 - 📫 Reach me on <a href= "https://www.linkedin.com/in/jessicakincaid/">LinkedIn</a>
 
 
