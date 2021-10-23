@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @j-kincaid
-- 👀 LaunchCode bootcamp graduate interested in Python, JavaScript and always curious to learn new things
+- 👀 LaunchCode bootcamp graduate interested in Python, JavaScript; always curious to learn new things
 - 🌱 I’m currently excited about Django and Angular
 - 💞️ Building my portfolio of beaded artwork and creative coding projects
 - 📫 Reach me on <a href= "https://www.linkedin.com/in/jessicakincaid/">LinkedIn</a>
