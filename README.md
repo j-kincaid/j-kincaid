@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @j-kincaid
-- 👀 LaunchCode bootcamp graduate interested in Python, JavaScript; always curious to learn new things
-- 🌱 I’m currently excited about Django and Vue
+### 👋 Hi, I’m Jessica
+- 👀 LaunchCode graduate interested in Python, JavaScript and IoT; always curious to learn new things
+- 🌱 I’m currently excited about Django and Arduino
 - 💞️ Building my portfolio of beaded artwork and creative coding projects
 - 📫 Reach me on <a href="https://www.linkedin.com/in/jessicakincaid" target="_blank">LinkedIn</a>
 
