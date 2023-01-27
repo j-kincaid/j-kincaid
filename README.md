@@ -5,6 +5,4 @@
 - 📫  Reach me on <a href="https://www.linkedin.com/in/jessicakincaid" target="_blank">LinkedIn</a>
 
 
-<!-- [![j-kincaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-kincaid)](https://github.com/j-kincaid/show_icons=true&theme=transparentgithub-readme-stats) 
-
- -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=j-kincaid&theme=dark)](https://git.io/streak-stats)
