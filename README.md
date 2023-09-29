@@ -4,5 +4,5 @@
 - 💞️  Building my portfolio of beaded artwork and creative coding projects
 - 📫  Reach me on <a href="https://www.linkedin.com/in/jessicakincaid" target="_blank">LinkedIn</a>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=j-kincaid&theme=dark)](https://git.io/streak-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=j-kincaid&theme=dark)](https://git.io/streak-stats)
