@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Jessica
+👋 Hi, I’m Jessica
 - 👀  Software developer interested in JavaScript and Python; always curious to learn new technologies
 - 🌱  I’m currently excited about Vue, React, Angular, and Django
 - 💞️  Building my portfolio of beaded artwork and creative coding projects
